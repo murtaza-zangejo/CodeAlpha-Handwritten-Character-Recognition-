@@ -293,17 +293,12 @@ Example:
 
 ```
 Input Image
+<img width="1490" height="1480" alt="digit" src="https://github.com/user-attachments/assets/08e2086f-aae1-4744-abea-35df49d2b2fd" />
 
-      ####
-     ##  ##
-        ##
-      ###
-     ##
-    ######
 
 Prediction
 
-Digit = 8
+Digit = 7
 ```
 
 ---
