@@ -225,8 +225,6 @@ Handwritten-Character-Recognition/
 │   ├── accuracy_plot.png
 │   ├── loss_plot.png
 │   ├── confusion_matrix.png
-│   ├── correct_predictions.png
-│   ├── misclassified_images.png
 │   └── prediction_probability.png
 │
 ├── requirements.txt
