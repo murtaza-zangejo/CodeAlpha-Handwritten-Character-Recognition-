@@ -191,9 +191,7 @@ The notebook generates:
 - ✅ Validation Accuracy Curve
 - ✅ Training Loss Curve
 - ✅ Validation Loss Curve
-- ✅ Confusion Matrix Heatmap
-- ✅ Correct Predictions
-- ✅ Incorrect Predictions
+- ✅ Confusion Matrix Heatmaps
 - ✅ Prediction Probability Chart
 
 ---
@@ -231,7 +229,6 @@ Handwritten-Character-Recognition/
 │   ├── misclassified_images.png
 │   └── prediction_probability.png
 │
-├── app.py
 ├── requirements.txt
 ├── README.md
 └── LICENSE
@@ -363,10 +360,3 @@ This project is licensed under the MIT License.
 
 Electrical Engineer | Machine Learning Engineer | Deep Learning Enthusiast
 
----
-
-# ⭐ If you found this project useful
-
-Please consider giving this repository a ⭐ on GitHub.
-
-It helps support the project and motivates future improvements.
