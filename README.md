@@ -293,6 +293,7 @@ Example:
 
 ```
 Input Image
+https://docs.chainer.org/en/stable/_images/mnist_output.png
 <img width="1490" height="1480" alt="digit" src="https://github.com/user-attachments/assets/08e2086f-aae1-4744-abea-35df49d2b2fd" />
 
 
